@@ -15,6 +15,7 @@
 		283E82ED2A495176008EAB27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 283E82EB2A495176008EAB27 /* LaunchScreen.storyboard */; };
 		283E82F52A4957D7008EAB27 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283E82F42A4957D7008EAB27 /* CustomCollectionViewCell.swift */; };
 		283E82F72A4964AC008EAB27 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283E82F62A4964AC008EAB27 /* MyCollectionViewCell.swift */; };
+		283E82F92A4966DA008EAB27 /* CollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283E82F82A4966DA008EAB27 /* CollectionReusableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		283E82EE2A495176008EAB27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		283E82F42A4957D7008EAB27 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 		283E82F62A4964AC008EAB27 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
+		283E82F82A4966DA008EAB27 /* CollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionReusableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				283E82EE2A495176008EAB27 /* Info.plist */,
 				283E82F42A4957D7008EAB27 /* CustomCollectionViewCell.swift */,
 				283E82F62A4964AC008EAB27 /* MyCollectionViewCell.swift */,
+				283E82F82A4966DA008EAB27 /* CollectionReusableView.swift */,
 			);
 			path = CollectionViewSupplementaryViews;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				283E82F72A4964AC008EAB27 /* MyCollectionViewCell.swift in Sources */,
 				283E82E12A495176008EAB27 /* AppDelegate.swift in Sources */,
 				283E82E32A495176008EAB27 /* SceneDelegate.swift in Sources */,
+				283E82F92A4966DA008EAB27 /* CollectionReusableView.swift in Sources */,
 				283E82F52A4957D7008EAB27 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
